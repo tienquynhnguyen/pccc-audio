@@ -41,6 +41,14 @@
       "icon": "🔔",
       "catId": "wuauxj4",
       "order": 0
+    },
+    {
+      "id": "72gtlq9",
+      "name": "BÁO CHÁY GIẢ",
+      "subtitle": "Sau khi kiểm tra không có cháy",
+      "icon": "🔕",
+      "catId": "wuauxj4",
+      "order": 1
     }
   ]
 }
