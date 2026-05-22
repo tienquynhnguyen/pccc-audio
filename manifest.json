@@ -1,4 +1,13 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "wuauxj4",
+      "name": "CÓ BÁO CHÁY",
+      "subtitle": "Dùng khi bị kích liên động",
+      "icon": "📢",
+      "color": "#1d4ed8",
+      "order": 0
+    }
+  ],
   "files": []
 }
