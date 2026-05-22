@@ -89,6 +89,14 @@
       "icon": "✅",
       "catId": "u0jpi7p",
       "order": 3
+    },
+    {
+      "id": "4zud7og",
+      "name": "BẮT ĐẦU SAU 15'",
+      "subtitle": "Test sau 15p. Không cúp điện",
+      "icon": "⏰",
+      "catId": "p7wfnrx",
+      "order": 0
     }
   ]
 }
