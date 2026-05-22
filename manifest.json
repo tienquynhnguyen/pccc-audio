@@ -129,6 +129,14 @@
       "icon": "✅",
       "catId": "p7wfnrx",
       "order": 4
+    },
+    {
+      "id": "ogotwb0",
+      "name": "DI TẢN CƯ DÂN",
+      "subtitle": "Chỉ phát khi cháy lớn",
+      "icon": "🔥🚒🔥",
+      "catId": "qoyv1sf",
+      "order": 0
     }
   ]
 }
