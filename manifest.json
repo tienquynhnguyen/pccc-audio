@@ -91,18 +91,18 @@
       "order": 3
     },
     {
-      "id": "4zud7og",
-      "name": "BẮT ĐẦU SAU 15'",
-      "subtitle": "Test sau 15p. Không cúp điện",
-      "icon": "⏰",
-      "catId": "p7wfnrx",
-      "order": 0
-    },
-    {
       "id": "kvlvqh6",
       "name": "TUYÊN TRUYỀN",
       "subtitle": "Phát đầu ngày",
       "icon": "📢",
+      "catId": "p7wfnrx",
+      "order": 0
+    },
+    {
+      "id": "4zud7og",
+      "name": "BẮT ĐẦU SAU 15'",
+      "subtitle": "Test sau 15p. Không cúp điện",
+      "icon": "⏰",
       "catId": "p7wfnrx",
       "order": 1
     }
