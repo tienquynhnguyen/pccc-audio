@@ -113,6 +113,14 @@
       "icon": "🔌",
       "catId": "p7wfnrx",
       "order": 2
+    },
+    {
+      "id": "rdcyjq4",
+      "name": "CHUÔNG REO",
+      "subtitle": "Phát khi chuông tòa nhà reo",
+      "icon": "🔔",
+      "catId": "p7wfnrx",
+      "order": 3
     }
   ]
 }
