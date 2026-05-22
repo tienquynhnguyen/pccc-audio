@@ -23,6 +23,14 @@
       "icon": "🚒",
       "color": "#7c3aed",
       "order": 2
+    },
+    {
+      "id": "qoyv1sf",
+      "name": "DI TẢN KHẨN CẤP",
+      "subtitle": "DÙNG KHI CHÁY LỚN",
+      "icon": "🔥⚠️🔥",
+      "color": "#b91c1c",
+      "order": 3
     }
   ],
   "files": []
