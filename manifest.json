@@ -57,6 +57,14 @@
       "icon": "❌",
       "catId": "wuauxj4",
       "order": 2
+    },
+    {
+      "id": "8vhcshh",
+      "name": "Sau 15'",
+      "subtitle": "Test 15p. Không cúp điện",
+      "icon": "⏱",
+      "catId": "u0jpi7p",
+      "order": 0
     }
   ]
 }
