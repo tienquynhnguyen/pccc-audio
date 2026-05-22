@@ -7,6 +7,14 @@
       "icon": "📢",
       "color": "#1d4ed8",
       "order": 0
+    },
+    {
+      "id": "u0jpi7p",
+      "name": "KIỂM TRA LIÊN ĐỘNG",
+      "subtitle": "Dùng khi kiểm tra liên động định kỳ",
+      "icon": "🗓",
+      "color": "#15803d",
+      "order": 1
     }
   ],
   "files": []
