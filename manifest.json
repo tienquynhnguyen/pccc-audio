@@ -33,5 +33,14 @@
       "order": 3
     }
   ],
-  "files": []
+  "files": [
+    {
+      "id": "ltz8dh0",
+      "name": "ĐANG KIỂM TRA",
+      "subtitle": "Dùng khi bị kích hoạt liên động",
+      "icon": "🔔",
+      "catId": "wuauxj4",
+      "order": 0
+    }
+  ]
 }
