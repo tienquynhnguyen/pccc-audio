@@ -81,6 +81,14 @@
       "icon": "🔔",
       "catId": "u0jpi7p",
       "order": 2
+    },
+    {
+      "id": "0p4zy03",
+      "name": "Hoàn thành kiểm tra",
+      "subtitle": "Phát khi đã xong hết",
+      "icon": "✅",
+      "catId": "u0jpi7p",
+      "order": 3
     }
   ]
 }
