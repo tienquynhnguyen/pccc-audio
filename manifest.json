@@ -15,6 +15,14 @@
       "icon": "🗓",
       "color": "#15803d",
       "order": 1
+    },
+    {
+      "id": "p7wfnrx",
+      "name": "DIỄN TẬP",
+      "subtitle": "Dùng khi diễn tập năm",
+      "icon": "🚒",
+      "color": "#7c3aed",
+      "order": 2
     }
   ],
   "files": []
