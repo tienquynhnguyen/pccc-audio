@@ -121,6 +121,14 @@
       "icon": "🔔",
       "catId": "p7wfnrx",
       "order": 3
+    },
+    {
+      "id": "a4qn636",
+      "name": "HOÀN THÀNH",
+      "subtitle": "Khi KẾT THÚC diễn tập",
+      "icon": "✅",
+      "catId": "p7wfnrx",
+      "order": 4
     }
   ]
 }
