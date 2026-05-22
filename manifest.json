@@ -73,6 +73,14 @@
       "icon": "🔌",
       "catId": "u0jpi7p",
       "order": 1
+    },
+    {
+      "id": "a3trnmu",
+      "name": "Chuông reo",
+      "subtitle": "Phát khi chuông reo",
+      "icon": "🔔",
+      "catId": "u0jpi7p",
+      "order": 2
     }
   ]
 }
