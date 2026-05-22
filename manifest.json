@@ -49,6 +49,14 @@
       "icon": "🔕",
       "catId": "wuauxj4",
       "order": 1
+    },
+    {
+      "id": "hbycfgt",
+      "name": "CHÁY THẬT - ĐÃ KHẮC PHỤC",
+      "subtitle": "Có cháy nhưng đã khống chế",
+      "icon": "❌",
+      "catId": "wuauxj4",
+      "order": 2
     }
   ]
 }
