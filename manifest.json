@@ -105,6 +105,14 @@
       "icon": "⏰",
       "catId": "p7wfnrx",
       "order": 1
+    },
+    {
+      "id": "drgs73l",
+      "name": "CÚP ĐIỆN",
+      "subtitle": "Test sau 10p. Có cúp điện",
+      "icon": "🔌",
+      "catId": "p7wfnrx",
+      "order": 2
     }
   ]
 }
