@@ -156,10 +156,11 @@
       "id": "ogotwb0",
       "name": "DI TẢN CƯ DÂN",
       "subtitle": "Chỉ phát khi cháy lớn",
-      "icon": "🔥🚒🔥",
+      "icon": "🔥🚒",
       "catId": "qoyv1sf",
       "order": 0,
-      "audioVer": "1779429806144"
+      "audioVer": "1779429806144",
+      "loops": 0
     }
   ]
 }
