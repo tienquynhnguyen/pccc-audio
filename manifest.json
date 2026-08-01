@@ -31,6 +31,14 @@
       "icon": "⚠️🔥",
       "color": "#b91c1c",
       "order": 3
+    },
+    {
+      "id": "4pb2x74",
+      "name": "KIỂM TRA LOA",
+      "subtitle": "Kiểm tra loa định kỳ",
+      "icon": "📢",
+      "color": "#15803d",
+      "order": 4
     }
   ],
   "files": [
