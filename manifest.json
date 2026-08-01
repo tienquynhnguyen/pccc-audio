@@ -227,6 +227,16 @@
       "loops": 1,
       "copyText": "",
       "order": 3
+    },
+    {
+      "id": "zde1cza",
+      "name": "Jamona Heights 2",
+      "subtitle": "",
+      "icon": "🏬",
+      "catId": "4pb2x74",
+      "loops": 1,
+      "copyText": "",
+      "order": 4
     }
   ]
 }
