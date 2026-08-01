@@ -205,6 +205,16 @@
       "loops": 1,
       "copyText": "",
       "order": 1
+    },
+    {
+      "id": "1pqmrvo",
+      "name": "Nhạc Việt",
+      "subtitle": "Made In Vietnam",
+      "icon": "📀",
+      "catId": "4pb2x74",
+      "loops": 1,
+      "copyText": "",
+      "order": 2
     }
   ]
 }
