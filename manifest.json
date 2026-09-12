@@ -39,6 +39,14 @@
       "icon": "🎙📣",
       "color": "#15803d",
       "order": 4
+    },
+    {
+      "id": "2ad494e",
+      "name": "Hội nghị nhà chung cư",
+      "subtitle": "Âm thanh Hội nghị",
+      "icon": "📚",
+      "color": "#7c3aed",
+      "order": 5
     }
   ],
   "files": [
