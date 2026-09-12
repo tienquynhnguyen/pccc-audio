@@ -258,6 +258,16 @@
       "copyText": "",
       "order": 5,
       "audioVer": "1785584820498"
+    },
+    {
+      "id": "n6vps9x",
+      "name": "Thông báo ngày 12/09",
+      "subtitle": "Thông báo ngày 12/09",
+      "icon": "📀",
+      "catId": "av5e0y8",
+      "loops": 3,
+      "copyText": "",
+      "order": 0
     }
   ]
 }
