@@ -298,6 +298,16 @@
       "loops": 3,
       "copyText": "",
       "order": 0
+    },
+    {
+      "id": "78cvgpy",
+      "name": "HOÀN THÀNH",
+      "subtitle": "",
+      "icon": "✔️",
+      "catId": "8oe84t4",
+      "loops": 3,
+      "copyText": "",
+      "order": 1
     }
   ]
 }
