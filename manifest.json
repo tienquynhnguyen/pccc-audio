@@ -47,6 +47,14 @@
       "icon": "📚",
       "color": "#7c3aed",
       "order": 5
+    },
+    {
+      "id": "8oe84t4",
+      "name": "KIỂM TRA MÁY PHÁT",
+      "subtitle": "",
+      "icon": "🔌",
+      "color": "#15803d",
+      "order": 6
     }
   ],
   "files": [
