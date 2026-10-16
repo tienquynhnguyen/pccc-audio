@@ -288,6 +288,16 @@
       "copyText": "",
       "order": 1,
       "audioVer": "1789184941655"
+    },
+    {
+      "id": "xbpd25m",
+      "name": "CÚP ĐIỆN",
+      "subtitle": "",
+      "icon": "✖️",
+      "catId": "8oe84t4",
+      "loops": 3,
+      "copyText": "",
+      "order": 0
     }
   ]
 }
